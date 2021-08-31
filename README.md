@@ -4,11 +4,11 @@ This repo houses my senior project for Boise State University. My senior project
 The expectation of this project was to gain an understanding of what academic research is actually like. This means, that I was not expected to have a fully fleshed out answer/model. It also means, that I am expected to produce a deliverable that can be handed over to my advisor (e.g. a PDF or a presentation). 
 
 # TODO
-[ ] read about the different methods to use (e.g. SIRE, which stands for susceptible, infected, recovered, and expired)
-[ ] review solving ODEs (initial value problems)
-[ ] review MATH 365 AIDS problem from 2019, and translate to python
-[ ] review Google drive shared with me from Dr. Kopera (problem 4, SIRE problem)
-[ ] do background research
+- [ ] read about the different methods to use (e.g. SIRE, which stands for susceptible, infected, recovered, and expired)
+- [ ] review solving ODEs (initial value problems)
+- [ ] review MATH 365 AIDS problem from 2019, and translate to python
+- [ ] review Google drive shared with me from Dr. Kopera (problem 4, SIRE problem)
+- [ ] do background research
 
 # Resources
 * Google scholar for real scientific articles
