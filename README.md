@@ -9,6 +9,7 @@ The expectation of this project was to gain an understanding of what academic re
 - [ ] review MATH 365 AIDS problem from 2019, and translate to python
 - [ ] review Google drive shared with me from Dr. Kopera (problem 4, SIRE problem)
 - [ ] do background research
+- [x] extract Idaho COVID case numbers
 
 # Resources
 * Google scholar for real scientific articles
