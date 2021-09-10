@@ -11,6 +11,16 @@ The expectation of this project was to gain an understanding of what academic re
 - [ ] do background research
 - [x] extract Idaho COVID case numbers
 
+# SIR Modeling
+
+SIR stands for Susceptible, Infected, Recovered, and it basically encapsulates the idea that an epidemic can be modeled using those three population groups. 
+
+* S(t) (those who have not yet been infected)
+* I(t) (those who can currently spread the disease)
+* R(t) (those who are now immune and cannot contract or spread the disease)
+
+Each above function is one of time t; all of them are differential functions, since we're interested in how they change over time.
+
 # Resources
 * Google scholar for real scientific articles
   * Be sure to cross reference articles and be careful with what data is selected/used from articles
