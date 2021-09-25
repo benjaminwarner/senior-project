@@ -1,9 +1,11 @@
 # Introduction
+
 This repo houses my senior project for Boise State University. My senior project was on creating a model for an epidemic using numbers for COVID-19.
 
 The expectation of this project was to gain an understanding of what academic research is actually like. This means, that I was not expected to have a fully fleshed out answer/model. It also means, that I am expected to produce a deliverable that can be handed over to my advisor (e.g. a PDF or a presentation). 
 
 # TODO
+
 - [ ] read about the different methods to use (e.g. SIRE, which stands for susceptible, infected, recovered, and expired)
 - [ ] review solving ODEs (initial value problems)
 - [ ] review MATH 365 AIDS problem from 2019, and translate to python
@@ -22,13 +24,21 @@ SIR stands for Susceptible, Infected, Recovered, and it basically encapsulates t
 Each above function is one of time t; all of them are differential functions, since we're interested in how they change over time.
 
 # Resources
+
 * Google scholar for real scientific articles
   * Be sure to cross reference articles and be careful with what data is selected/used from articles
   * Looking at sources used in scientific articles is a good way to see what the author was looking at
   * Additionally, look for articles that source a found article
 * Google for just quick research
 
+## Links
+
+* https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1760146
+* https://link.springer.com/article/10.1007/s11071-020-05743-y (SEIR modeling)
+* https://github.com/CSSEGISandData/COVID-19
+
 # Questions to Consider
+
 * How bad could the numbers have gotten if we didn't do a lockdown?
 * How effective was the lockdown?
   * How long should the lockdown have lasted to be the most effective?
